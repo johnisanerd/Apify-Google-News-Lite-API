@@ -271,4 +271,4 @@ More help: https://docs.apify.com/platform/integrations/mcp
 
 *Use the Google News Lite API to power your media monitoring with reliable, structured results.*
 
-Last Updated: 2026.06.19
+Last Updated: 2026.06.21
