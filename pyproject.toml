@@ -1,11 +1,11 @@
 [project]
-name = "apify-google-news-lite"
-version = "0.1.0"
-description = "Example client for the Google News Lite API Apify Actor"
+name = "apify-google-news-api-monitoring"
+version = "0.2.0"
+description = "Bulk keyword monitoring and daily news digests with the Google News API Apify Actor"
 readme = "README.md"
-requires-python = ">=3.10"
+requires-python = ">=3.11"
 dependencies = [
-    "apify-client>=1.4.0",
+    "apify-client>=3.0.0",
     "python-dotenv>=1.0.0",
 ]
 
