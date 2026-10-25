@@ -534,4 +534,4 @@ For support or requests for this actor, please start a ticket [directly on our s
 
 *Use the Google News API to power news monitoring, brand tracking, and daily digests with reliable, structured results.*
 
-Last Updated: 2026.10.13
+Last Updated: 2026.10.25
